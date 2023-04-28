@@ -1,0 +1,7 @@
+D:\С#\Laba13\Laba13\obj\Debug\Laba13.csproj.AssemblyReference.cache
+D:\С#\Laba13\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+D:\С#\Laba13\Laba13\bin\Debug\Laba13.exe.config
+D:\С#\Laba13\Laba13\bin\Debug\Laba13.exe
+D:\С#\Laba13\Laba13\bin\Debug\Laba13.pdb
+D:\С#\Laba13\Laba13\obj\Debug\Laba13.exe
+D:\С#\Laba13\Laba13\obj\Debug\Laba13.pdb
